@@ -40,6 +40,10 @@ MATH_KEYWORD_PATTERN = re.compile(
     re.IGNORECASE
 )
 
+ALLOWED_CHANNEL_IDS = {
+    1550394906231574608,  # botslop
+}
+
 
 
 @bot.event
@@ -88,20 +92,22 @@ async def course_error(ctx, error):
 
 @bot.event
 async def on_message(message):
+    
     if message.author.bot:
         return
-    if re.search(r"nee?e?e?e?e?e?e?e?e?e?e?e?e?e?E?E?e?e?e?e?e?e?rd", message.content, re.IGNORECASE):
-        db.execute("""
-            INSERT INTO nerd_counts (user_id, guild_id, count)
-            VALUES (?, ?, 1)
-            ON CONFLICT(user_id, guild_id) DO UPDATE SET count = count + 1
-        """, (message.author.id, message.guild.id))
+    if message.channel.id in ALLOWED_CHANNEL_IDS:
+        if re.search(r"n+e+r+d+", message.content, re.IGNORECASE):
+            db.execute("""
+                INSERT INTO nerd_counts (user_id, guild_id, count)
+                VALUES (?, ?, 1)
+                ON CONFLICT(user_id, guild_id) DO UPDATE SET count = count + 1
+            """, (message.author.id, message.guild.id))
         
-        await message.add_reaction("🙁")
-        db.commit()
+            await message.add_reaction("🙁")
+            db.commit()
     
-    if MATH_KEYWORD_PATTERN.search(message.content):
-        await message.add_reaction("🤓")
+        if MATH_KEYWORD_PATTERN.search(message.content):
+            await message.add_reaction("🤓")
 
     await bot.process_commands(message)
 

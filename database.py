@@ -7,7 +7,9 @@ import re
 from discord.ext import commands
 from dotenv import load_dotenv
 
-db = sqlite3.connect("bot.db")
+import os
+DB_PATH = os.getenv("DB_PATH", "bot.db")
+db = sqlite3.connect(DB_PATH)
 
 def setup_tables():
     db.execute("""

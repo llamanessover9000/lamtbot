@@ -43,4 +43,17 @@ def setup_tables():
         )
     """)
     db.commit()
+    
+    db.execute("""
+    CREATE TABLE IF NOT EXISTS reminders (
+        id INTEGER PRIMARY KEY AUTOINCREMENT,
+        user_id INTEGER,
+        guild_id INTEGER,
+        channel_id INTEGER,
+        message_id INTEGER,
+        remind_at INTEGER,
+        created_at INTEGER,
+        content TEXT
+        )
+    """)
 

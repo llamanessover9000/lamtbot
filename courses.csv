@@ -1,0 +1,790 @@
+code,department,name
+1,MATH,Precalculus
+3A,MATH,Calculus for Life Science Students
+3B,MATH,Calculus for Life Science Students
+3C,MATH,Ordinary Differential Equations with Linear Algebra for Life Science Students
+11N,MATH,Gateway to Mathematics: Number Theory
+31A,MATH,Differential and Integral Calculus
+31AL,MATH,Differential and Integral Calculus Laboratory
+31B,MATH,Integration and Infinite Series
+32A,MATH,Calculus of Several Variables
+32AH,MATH,Calculus of Several Variables (Honors)
+32B,MATH,Calculus of Several Variables
+32BH,MATH,Calculus of Several Variables (Honors)
+M32T,MATH,Essential Calculus for MAthematical Biologists
+33A,MATH,Linear Algebra and Applications
+33AH,MATH,Linear Algebra and Applications (Honors)
+33B,MATH,Differential Equations
+42,MATH,"Introduction to Data-Driven Mathematical Modeling: Life, The Universe, and Everything"
+61,MATH,Introduction to Discrete Structures
+70,MATH,Introduction to Probability
+73XP,MATH,Key Issues in K-12 Mathematics
+74XP,MATH,Mathematics and Pedagogy for Teaching Elementary Mathematics
+75XP,MATH,Mathematics and Pedagogy for Teaching Elementary Mathematics
+89HC,MATH,Honors Contracts
+100,MATH,Problem Solving
+101,MATH,Advanced Problem Solving
+103A,MATH,Observation and Participation: Mathematics Instruction
+103B,MATH,Observation and Participation: Mathematics Instruction
+103C,MATH,Observation and Participation: Mathematics Instruction
+105A,MATH,Mathematics and Pedagogy for Teaching Secondary Mathematics
+105B,MATH,Mathematics and Pedagogy for Teaching Secondary Mathematics
+105C,MATH,Mathematics and Pedagogy for Teaching Secondary Mathematics
+106,MATH,History of Mathematics
+110A,MATH,Algebra
+110B,MATH,Algebra
+110C,MATH,Algebra
+110AH,MATH,Algebra (Honors)
+110BH,MATH,Algebra (Honors)
+111,MATH,Theory of Numbers
+114C,MATH,Computability Theory
+114L,MATH,Mathematical Logic
+M114S,MATH,Introduction to Set Theory
+115A,MATH,Linear Algebra
+115AH,MATH,Linear Algebra (Honors)
+115B,MATH,Linear Algebra
+116,MATH,Mathematical Cryptology
+117,MATH,Algebra for Applications
+118,MATH,Mathematical Methods of Data Theory
+120A,MATH,Differential Geometry
+120B,MATH,Differential Geometry
+121,MATH,Introduction to Topology
+123,MATH,Foundations of Geometry
+131A,MATH,Analysis
+131AH,MATH,Analysis (Honors)
+131B,MATH,Analysis
+131BH,MATH,Analysis (Honors)
+131C,MATH,Topics in Analysis
+132,MATH,Complex Analysis for Applications
+132H,MATH,Complex Analysis (Honors)
+133,MATH,Introduction to Fourier Analysis
+134,MATH,Linear and Nonlinear Systems of Differential Equations
+135,MATH,Ordinary Differential Equations
+136,MATH,Partial Differential Equations
+142,MATH,Mathematical Modeling
+146,MATH,Methods of Applied Mathematics
+M148,MATH,Experience of Data Science
+151A,MATH,Applied Numerical Methods
+151B,MATH,Applied Numerical Methods
+151AH,MATH,Numerical Analysis Part 1 (Honors)
+151BH,MATH,Numerical Analysis Part 2 (Honors)
+155,MATH,Mathematical Imaging
+156,MATH,Machine Learning
+164,MATH,Optimization
+167,MATH,Mathematical Game Theory
+168,MATH,Introduction to Networks
+170A,MATH,Probability Theory I
+170B,MATH,Probability Theory II 
+170E,MATH,Introduction to Probability and Statistics: Part 1 Probability
+170S,MATH,Introduction to Probability and Statistics: Part 2 Statistics
+171,MATH,Stochastic Processes
+174E,MATH,Mathematics of Finance for Mathematics/Economics Students
+177,MATH,Theory of Interest and Applications
+178A,MATH,Foundations of Actuarial Mathematics: Life Insurance and Annuities
+178B,MATH,Foundations of Actuarial Mathematics: Further Topics in Long Term Actuarial Mathematics
+178C,MATH,Foundations of Actuarial Mathematics: Loss Modeling
+179,MATH,Advanced Topics in Financial Mathematics
+180,MATH,Graph Theory
+182,MATH,Algorithms
+184,MATH,Enumerative Combinatorics
+189HC,MATH,Honors Contracts
+191,MATH,Variable Topics Research Seminars: Mathematics
+191H,MATH,Honors Research Seminars: Mathematics
+195,MATH,Community Internships in Mathematics Education
+197,MATH,Individual Studies in Mathematics
+199,MATH,Directed Research of Senior Project in Mathematics
+201A,MATH,Topics in Algebra and Analysis
+201B,MATH,Topics in Algebra and Analysis
+201C,MATH,Topics in Algebra and Analysis
+202A,MATH,Mathematical Models and Applications
+202B,MATH,Mathematical Models and Applications
+203,MATH,Master's Linear Algebra
+204,MATH,Master's Analysis
+205A,MATH,Number Theory
+205B,MATH,Number Theory
+205C,MATH,Number Theory
+206A,MATH,Combinatorial Theory
+206B,MATH,Combinatorial Theory
+207A,MATH,Topics in Number Theory
+207B,MATH,Topics in Number Theory
+207C,MATH,Topics in Number Theory
+208A,MATH,Topics in Applied Number Theory
+208B,MATH,Topics in Applied Number Theory
+M209A,MATH,Cryptography
+M209B,MATH,Cryptographic Protocols
+210A,MATH,Algebra
+210B,MATH,Algebra
+210C,MATH,Algebra
+211,MATH,Structure of Rings
+212A,MATH,Homological Algebra
+212B,MATH,Homological Algebra
+213A,MATH,Theory of Groups
+213B,MATH,Theory of Groups
+214A,MATH,Introduction to Algebraic Geometry
+214B,MATH,Introduction to Algebraic Geometry
+215A,MATH,Commutative Algebra
+215B,MATH,Commutative Algebra
+216A,MATH,Further Topics in Algebra
+216B,MATH,Further Topics in Algebra
+216C,MATH,Further Topics in Algebra
+M217,MATH,Geometry and Physics
+218A,MATH,Discrete Mathematics: Probabilistic Methods
+218B,MATH,Discrete Mathematics: Algebraic Methods
+218C,MATH,Topics in Discrete Mathematics
+220A,MATH,Mathematical Logic
+220B,MATH,Mathematical Logic
+220C,MATH,Mathematical Logic
+222A,MATH,Lattice Theory and Algebraic Systems
+222B,MATH,Lattice Theory and Algebraic Systems
+223C,MATH,Topics in Computability Theory
+223D,MATH,Topics in Descriptive Set Theory
+223M,MATH,Topics in Model Theory
+223S,MATH,Topics in Set Theory
+225A,MATH,Smooth Manifolds
+225B,MATH,Differential Topology
+225C,MATH,Algebraic Topology
+226A,MATH,Differential Geometry
+226B,MATH,Differential Geometry
+226C,MATH,Differential Geometry
+227A,MATH,Algebraic Topology
+227B,MATH,Algebraic Topology
+229A,MATH,Lie Groups and Lie Algebras
+229B,MATH,Lie Groups and Lie Algebras
+229C,MATH,Lie Groups and Lie Algebras
+233,MATH,Partial Differential Equations on Manifolds
+234,MATH,Topics in Differential Geometry
+235,MATH,Topics in Manifold Theory
+236,MATH,Topics in Geometric Topology
+237,MATH,Topics in Algebraic Topology
+238A,MATH,Dynamical Systems
+238B,MATH,Dynamical Systems
+245A,MATH,Real Analysis
+245B,MATH,Real Analysis
+245C,MATH,Real Analysis
+246A,MATH,Complex Analysis
+246B,MATH,Complex Analysis
+246C,MATH,Complex Analysis
+247A,MATH,Classical Fourier Analysis
+247B,MATH,Classical Fourier Analysis
+250A,MATH,Ordinary Differential Equations
+250B,MATH,Nonlinear Ordinary Differential Equations
+250C,MATH,Advanced Topics in Ordinary Differential Equations
+251A,MATH,Introductory Partial Differential Equations
+251B,MATH,Topics in Partial Differential Equations
+251C,MATH,Topics in Partial Differential Equations
+252A,MATH,Topics in Complex Analysis
+252B,MATH,Topics in Complex Analysis
+253A,MATH,Several Complex Variables
+253B,MATH,Several Complex Variables
+254A,MATH,Topics in Real Analysis
+254B,MATH,Topics in Real Analysis
+255A,MATH,Functional Analysis
+255B,MATH,Topics in Functional Analysis
+255C,MATH,Topics in Functional Analysis
+256A,MATH,Topological Groups and Their Representations
+256B,MATH,Topological Groups and Their Representations
+259A,MATH,Operator Algebras in Hilbert Space
+259B,MATH,Operator Algebras in Hilbert Space
+260,MATH,Introduction to Applied Mathematics
+261,MATH,Game Theory
+264,MATH,Applied Complex Analysis
+265A,MATH,Real Analysis for Applications
+265B,MATH,Real Analysis for Applications
+266A,MATH,Applied Ordinary Differential Equations
+266B,MATH,Applied Partial Differential Equations
+266C,MATH,Applied Partial Differential Equations
+266D,MATH,Applied Differential Equations
+266E,MATH,Applied Differential Equations
+M268A,MATH,Functional Analysis for Applied Mathematics and Engineering
+M268B,MATH,Topics in Functional Analysis for Applied Mathematics and Engineering
+M268C,MATH,Topics in Applied Functional Analysis
+269A,MATH,Advanced Numerical Analysis
+269B,MATH,Advanced Numerical Analysis
+269C,MATH,Advanced Numerical Analysis
+270A,MATH,Mathematical Aspects of Scientific Computing: Techniques of Scientific Computing
+270B,MATH,Mathematical Aspects of Scientific Computing: Computational Linear Algebra
+270C,MATH,Mathematical Aspects of Scientific Computing: Computational Linear Algebra
+270D,MATH,Mathematical Aspects of Scientific Computing: Computational Fluid Dynamics
+270E,MATH,Mathematical Aspects of Scientific Computing: Computational Fluid Dynamics
+270F,MATH,Mathematical Aspects of Scientific Computing: Parallel Numerical Algorithms
+271A,MATH,Tensor Analysis
+271B,MATH,Analytical Mechanics
+271C,MATH,Introduction to Relativity
+271D,MATH,Wave Mechanics
+272A,MATH,Foundations of Continuum Mechanics
+272B,MATH,Mathematical Aspects of Fluid Mechanics
+272C,MATH,Magnetohydrodynamics
+272D,MATH,Rotating Fluids and Geophysical Fluid Dynamics
+273,MATH,"Optimization, Calculus of Variations, and Control Theory"
+274A,MATH,Asymptotic Methods
+274B,MATH,Perturbation Methods
+274C,MATH,Perturbation Methods
+275A,MATH,Probability Theory
+275B,MATH,Probability Theory
+275C,MATH,Stochastic Processes
+275D,MATH,Stochastic Calculus
+275E,MATH,Stochastic Particle Systems
+285A,MATH,Seminar: History and Development of Mathematics
+285B,MATH,Seminar: Number Theory
+285C,MATH,Seminar: Algebra
+285D,MATH,Seminar: Logic
+285E,MATH,Seminar: Geometry
+285F,MATH,Seminar: Topology
+285G,MATH,Seminar: Analysis
+285H,MATH,Seminar: Differential Equations
+285I,MATH,Seminar: Functional Analysis
+285J,MATH,Seminar: Applied Mathematics
+285K,MATH,Seminar: Probability
+285L,MATH,Seminar: Dynamical Systems
+290A,MATH,Seminar: Current Literature in History and Development of Mathematics
+290B,MATH,Seminar: Current Literature in Number Theory
+290C,MATH,Seminar: Current Literature in Algebra
+290D,MATH,Seminar: Current Literature in Logic
+290E,MATH,Seminar: Current Literature in Geometry
+290F,MATH,Seminar: Current Literature in Topology
+290G,MATH,Seminar: Current Literature in Analysis
+290H,MATH,Seminar: Current Literature in Differential Equations
+290I,MATH,Seminar: Current Literature in Functional Analysis
+290J,MATH,Seminar: Current Literature in Applied Mathematics
+290K,MATH,Seminar: Current Literature in Probability
+290L,MATH,Seminar: Current Literature in Dynamical Systems
+290M,MATH,Seminar: Current Literature in Mathematics
+296A,MATH,Participating Seminar: History and Development of Mathematics
+296B,MATH,Participating Seminar: Number Theory
+296C,MATH,Participating Seminar: Algebra
+296D,MATH,Participating Seminar: Logic
+296E,MATH,Participating Seminar: Geometry
+296F,MATH,Participating Seminar: Topology
+296G,MATH,Participating Seminar: Analysis
+296H,MATH,Participating Seminar: Differential Equations
+296I,MATH,Participating Seminar: Functional Analysis
+296K,MATH,Participating Seminar: Probability
+296L,MATH,Participating Seminar: Dynamical Systems
+296M,MATH,Participating Seminar: Mathematics
+495,MATH,Teaching College Mathematics
+596,MATH,Directed Individual Study or Research
+599,MATH,Research in Mathematics
+1,CS,Freshman Computer Science Seminar
+19,CS,Fiat Lux Freshman Seminars
+30,CS,Principles and Practices of Computing
+31,CS,Introduction to Computer Science I
+32,CS,Introduction to Computer Science II
+33,CS,Introduction to Computer Organization
+35L,CS,Software Construction
+M51A,CS,Logic Design of Digital Systems
+97,CS,Variable Topics in Computer Science
+99,CS,Student Research Program
+111,CS,Operating Systems Principles
+112,CS,Modeling Uncertainty in Information Systems
+117,CS,Computer Networks: Physical Layer
+118,CS,Computer Network Fundamentals
+M119,CS,Fundamentals of Embedded Networked Systems
+C121,CS,Probabilistic Models in Computational Genomics
+C122,CS,Algorithms in Computational Genomics
+C124,CS,Machine Learning Applications in Genetics
+130,CS,Software Engineering
+131,CS,Programming Languages
+132,CS,Compiler Construction
+133,CS,Parallel and Distributed Computing
+134,CS,Distributed Systems
+136,CS,Introduction to Computer Security
+C137A,CS,Prototyping Programming Languages
+C137B,CS,Programming Language Design
+M138,CS,Computer System Security
+143,CS,Data Management Systems
+144,CS,Web Applications
+145,CS,Introduction to Data Mining
+M146,CS,Introduction to Machine Learning
+M148,CS,Introduction to Data Science
+M151B,CS,Computer Systems Architecture
+M152A,CS,Introductory Digital Design Laboratory
+152B,CS,Digital Design Project Laboratory
+161,CS,Fundamentals of Artificial Intelligence
+162,CS,Natural Language Processing
+163,CS,Deep Learning for Computer Vision
+168,CS,Computational Methods for Medical Imaging
+170A,CS,Mathematical Modeling and Methods for Computer Science
+M171L,CS,Data Communication Systems Laboratory
+172,CS,Real-Time Three-Dimensional Animation
+174A,CS,Introduction to Computer Graphics
+174B,CS,Introduction to Computer Graphics: Three-Dimensional Photography and Rendering
+C174C,CS,Computer Animation
+180,CS,Introduction to Algorithms and Complexity
+181,CS,Theory of Computing
+M182,CS,Dynamic Biosystem Modeling and Simulation Methodology
+183,CS,Introduction to Cryptography
+M184,CS,Introduction to Computational and Systems Biology
+CM186,CS,Computational Systems Biology: Modeling and Simulation of Biological Systems
+CM187,CS,Research Communication in Computational and Systems Biology
+188,CS,Special Courses in Computer Science
+188SA,CS,Individual Studies for USIE Facilitators
+188SB,CS,Individual Studies for USIE Facilitators
+188SC,CS,Individual Studies for USIE Facilitators
+192,CS,Methods and Application of Collaborative Learning Theory in Life Sciences
+M192A,CS,Introduction to Collaborative Learning Theory and Practice
+194,CS,Research Group Seminars: Computer Science
+199,CS,Directed Research in Computer Science
+201,CS,Computer Science Seminar
+202,CS,Advanced Computer Science Seminar
+205,CS,Health Analytics
+211,CS,Network Protocol and Systems Software Design for Wireless and Mobile
+212A,CS,Queueing Systems Theory
+M213A,CS,Embedded Systems
+M213B,CS,Energy-Aware Computing and Cyber-Physical Systems
+214,CS,Big Data Systems
+215,CS,Internet of Things: Connectivity and Sensing
+216,CS,Network Algorithmics
+217A,CS,Internet Architecture and Protocols
+217B,CS,Advanced Topics in Internet Research
+218,CS,Advanced Computer Networks
+219,CS,Current Topics in Computer System Modeling Analysis
+C221,CS,Probabilistic Models in Computational Genomics
+C222,CS,Algorithms in Computational Genomics
+C224,CS,Machine Learning Applications in Genetics
+225,CS,Methods and Applications in Computational Genomics
+226,CS,Machine Learning in Computational Genomics
+229S,CS,Seminar: Current Topics in Computational Genomics
+230,CS,Software Engineering
+231,CS,Types and Programming Languages
+232,CS,Static Program Analysis
+233A,CS,Parallel Programming
+233B,CS,Verification of Concurrent Programs
+234,CS,Computer-Aided Verification
+235,CS,Advanced Operating Systems
+236,CS,Computer Security
+C237A,CS,Prototyping Programming Languages
+C237B,CS,Programming Language Design
+M238,CS,Quantum Programming
+238B,CS,Quantum Algorithms
+239,CS,Current Topics in Computer Science: Programming Languages and Systems
+240A,CS,Databases and Knowledge Bases
+240B,CS,Advanced Data and Knowledge Bases
+241B,CS,Pictorial and Multimedia Database Management
+244A,CS,Distributed Database Systems
+245,CS,Big Data Analytics
+246,CS,Web Information Management
+247,CS,Advanced Data Mining
+249,CS,Current Topics in Data Structures
+251A,CS,Advanced Computer Architecture
+251B,CS,Parallel Computer Architectures
+252A,CS,Arithmetic Algorithms and Processors
+256A,CS,Advanced Scalable Architectures
+M258A,CS,Design of VLSI Circuits and Systems
+M258C,CS,LSI in Computer System Design
+258F,CS,Physical Design Automation of VLSI Systems
+258G,CS,Logic Synthesis of Digital Systems
+258H,CS,Analysis and Design of High-Speed VLSI Interconnects
+259,CS,Current Topics in Computer Science: System Design/Architecture
+260,CS,Machine Learning Algorithms
+260B,CS,Algorithmic Machine Learning
+260C,CS,Deep Learning
+260D,CS,Large-Scale Machine Learning
+260R,CS,Reinforcement Learning
+261,CS,Deep Generative Models
+261A,CS,Problem Solving and Search
+262A,CS,Learning and Reasoning with Bayesian Networks
+M262C,CS,"Current Topics in Causal Modeling, Inference, and Reasoning"
+262Z,CS,Current Topics in Cognitive Systems
+263,CS,Natural Language Processing
+263A,CS,Language and Thought
+263C,CS,Animats-Based Modeling
+264A,CS,Automated Reasoning: Theory and Applications
+265A,CS,Machine Learning
+M266A,CS,Statistical Modeling and Learning in Vision and Cognition
+M266B,CS,Statistical Computing and Inference in Vision and Cognition
+267A,CS,Probabilistic Programming and Relational Learning
+M268,CS,Machine Perception
+268S,CS,Seminar: Computational Neuroscience
+269,CS,Seminar: Current Topics in Artificial Intelligence
+C274C,CS,Computer Animation
+275,CS,Artificial Life for Computer Graphics and Vision
+M276A,CS,Pattern Recognition and Machine Learning
+280A,CS,Algorithms
+280AP,CS,Algorithms: Approximation Algorithms
+280CO,CS,Algorithms
+280D,CS,Algorithms
+280DA,CS,Algorithms
+280DP,CS,Algorithms
+280G,CS,Algorithms
+280P,CS,Algorithms
+281A,CS,Computability and Complexity
+M282A,CS,Cryptography
+M282B,CS,Cryptographic Protocols
+M283A,CS,Topics in Applied Number Theory
+M283B,CS,Topics in Applied Number Theory
+284A,CS,Topics in Automata and Languages
+284C,CS,Topics in Automata and Languages
+284P,CS,Topics in Automata and Languages
+285CC,CS,Communication Complexity
+CM286,CS,Computational Systems Biology: Modeling and Simulation of Biological Systems
+CM287,CS,Research Communication in Computational and Systems Biology
+288S,CS,Seminar: Theoretical Computer Science
+289A,CS,Current Topics in Computer Theory
+289CO,CS,Current Topics in Computer Theory: Complexity Theory
+289L,CS,Current Topics in Computer Theory
+289OA,CS,Current Topics in Computer Theory: Online Algorithms
+289P,CS,Current Topics in Computer Theory
+289RA,CS,Current Topics in Computer Theory: Randomized Algorithms
+289SG,CS,Current Topics in Computer Theory
+M296A,CS,Advanced Modeling Methodology for Dynamic Biomedical Systems
+M296B,CS,Optimal Parameter Estimation and Experiment Design for Biomedical Systems
+M296C,CS,Advanced Topics and Research in Biomedical Systems Modeling and Computing
+M296D,CS,Introduction to Computational Cardiology
+298,CS,Research Seminar: Computer Science
+495,CS,Teaching Assistant Training Seminar
+495B,CS,Teaching with Technology
+497D,CS,Field Projects in Computer Science
+497E,CS,Field Projects in Computer Science
+596,CS,Directed Individual or Tutorial Studies
+597A,CS,Preparation for MS Comprehensive Examination
+597B,CS,Preparation for PhD Preliminary Examination
+597C,CS,Preparation for PhD Oral Qualifying Examination
+598,CS,Research for and Preparation of MS Thesis
+599,CS,Research for and Preparation of PhD Dissertation
+1,EE,Undergraduate Seminar
+2,EE,Physics for Electrical Engineers
+2H,EE,Physics for Electrical Engineers (Honors)
+3,EE,Introduction to Electrical Engineering
+10,EE,Circuit Theory I
+10H,EE,Circuit Theory I (Honors)
+11L,EE,Circuits Laboratory I
+M16,EE,Logic Design of Digital Systems
+19,EE,Fiat Lux Freshman Seminars
+89,EE,Honors Seminars
+99,EE,Student Research Program
+100,EE,Electrical and Electronic Circuits
+101A,EE,Engineering Electromagnetics
+101B,EE,Electromagnetic Waves
+102,EE,Systems and Signals
+110,EE,Circuit Theory II
+110H,EE,Circuit Theory II (Honors)
+110L,EE,Circuit Measurements Laboratory
+111L,EE,Circuits Laboratory II
+112,EE,Introduction to Power Systems
+113,EE,Digital Signal Processing
+113DA,EE,Digital Signal Processing Design
+113DW,EE,Digital Signal Processing Design
+114,EE,Speech and Image Processing Systems Design
+115A,EE,Analog Electronic Circuits I
+115AL,EE,Analog Electronics Laboratory I
+115B,EE,Analog Electronic Circuits II
+115C,EE,Digital Electronic Circuits
+115DA,EE,Electronic Circuits and Systems Design
+115DW,EE,Electronic Circuits and Systems Design
+115E,EE,Design Studies in Electronic Circuits
+M116C,EE,Computer Systems Architecture
+M116L,EE,Introductory Digital Design Laboratory
+M117,EE,Computer System Security
+M119,EE,Fundamentals of Embedded Networked Systems
+121B,EE,Principles of Semiconductor Device Design
+121DA,EE,Semiconductor Processing and Device Design
+121DB,EE,Semiconductor Processing and Device Design
+123A,EE,Fundamentals of Solid-State I
+123B,EE,Fundamentals of Solid-State II
+128,EE,Principles of Nanoelectronics
+131A,EE,Probability and Statistics
+132A,EE,Introduction to Communication Systems
+132B,EE,Data Communications and Telecommunication Networks
+133A,EE,Applied Numerical Computing
+133B,EE,"Simulation, Optimization, and Data Analysis"
+134,EE,Graph Theory in Engineering
+141,EE,Principles of Feedback Control
+142,EE,Linear Systems: State-Space Approach
+C143A,EE,Neural Signal Processing
+M146,EE,Introduction to Machine Learning
+C147A,EE,Neural Networks and Deep Learning
+C147B,EE,Neural Networks and Deep Learning II
+M148,EE,Introduction to Data Science
+149,EE,Foundations of Computer Vision
+M153,EE,Introduction to Microscale and Nanoscale Manufacturing
+162A,EE,Wireless Communication Links and Antennas
+163A,EE,Introductory Microwave Circuits
+163C,EE,Fundamental Principles of Radiofrequency and Microwave Systems
+163DA,EE,Microwave and Wireless Design I
+163DB,EE,Microwave and Wireless Design II
+170A,EE,Principles of Photonics
+170B,EE,Lasers and Photonic Devices
+170C,EE,Photonic Sensors and Solar Cells
+M171L,EE,Data Communication Systems Laboratory
+173DA,EE,Photonics and Communication Design
+173DB,EE,Photonics and Communication Design
+176,EE,Photonics in Biomedical Applications
+180DA,EE,Systems Design
+180DW,EE,Systems Design
+181DA,EE,Honors Thesis
+181DB,EE,Honors Thesis
+CM182,EE,"Science, Technology, and Public Policy"
+183DA,EE,Design of Robotic Systems I
+183DB,EE,Design of Robotic Systems II
+184DA,EE,Independent Group Project Design
+184DB,EE,Independent Group Project Design
+M185,EE,Introduction to Plasma Science and Engineering
+188,EE,Special Courses in Electrical Engineering
+188SA,EE,Individual Studies for USIE Facilitators
+188SB,EE,Individual Studies for USIE Facilitators
+188SC,EE,Individual Studies for USIE Facilitators
+189,EE,Advanced Honors Seminars
+194,EE,Research Group Seminars: Electrical Engineering
+199,EE,Directed Research in Electrical Engineering
+201A,EE,VLSI Design Automation
+201C,EE,Modeling of VLSI Circuits and Systems
+201D,EE,Design in Nanoscale Technologies
+M202A,EE,Embedded Systems
+M202B,EE,Energy-Aware Computing and Cyber-Physical Systems
+202C,EE,Internet of Things Security
+205A,EE,Matrix Analysis for Scientists and Engineers
+M206,EE,Machine Perception
+M208B,EE,Functional Analysis for Applied Mathematics and Engineering
+M208C,EE,Topics in Functional Analysis for Applied Mathematics and Engineering
+209AS,EE,Special Topics in Circuits and Embedded Systems
+209BS,EE,Seminar: Circuits and Embedded Systems
+210A,EE,Adaptation and Learning
+210B,EE,Inference over Networks
+211A,EE,Digital Image Processing I
+212A,EE,Theory and Design of Digital Filters
+M214A,EE,Digital Speech Processing
+214B,EE,Advanced Topics in Speech Processing
+215A,EE,Analog Integrated Circuit Design
+215B,EE,Advanced Digital Integrated Circuits
+215C,EE,Analysis and Design of RF Circuits and Systems
+215D,EE,Analog Microsystem Design
+215E,EE,Signaling and Synchronization
+M216A,EE,Design of VLSI Circuits and Systems
+216B,EE,VLSI Signal Processing
+M216C,EE,LSI in Computer System Design
+M217,EE,Biomedical Imaging
+218,EE,Network Economics and Game Theory
+219,EE,Large-Scale Data Mining: Models and Algorithms
+221A,EE,Physics of Semiconductor Devices I
+221B,EE,Physics of Semiconductor Devices II
+221C,EE,Microwave Semiconductor Devices
+222,EE,Integrated Circuits Fabrication Processes
+223,EE,Solid-State Electronics I
+224,EE,Solid-State Electronics II
+225,EE,Physics of Semiconductor Nanostructures and Devices
+229,EE,Seminar: Advanced Topics in Solid-State Electronics
+229S,EE,Advanced Electrical Engineering Seminar
+230A,EE,Detection and Estimation in Communication
+230B,EE,Digital Communication Systems
+230C,EE,Signal Processing in Communications
+230D,EE,Algorithms and Processing in Communication Systems
+231A,EE,Information Theory
+231B,EE,Network Information Theory
+231E,EE,Channel Coding Theory
+232A,EE,Stochastic Modeling with Applications to Telecommunication Systems
+232B,EE,Queueing Systems and Intelligent Transportation Networks
+232D,EE,Communications Networking and Traffic Management for Autonomous Mobile Systems
+232E,EE,Large Scale Social and Complex Networks: Design and Algorithms
+233,EE,"Wireless Communications System Design, Modeling, and Implementation"
+234A,EE,Network Coding Theory and Applications
+235A,EE,Mathematical Foundations of Data Storage Systems
+236A,EE,Linear Programming
+236B,EE,Convex Optimization
+236C,EE,Optimization Methods for Large-Scale Systems
+M237,EE,Dynamic Programming
+238,EE,Multimedia Communications and Processing
+239AS,EE,Special Topics in Signals and Systems
+239BS,EE,Seminar: Signals and Systems
+M240A,EE,Linear Dynamic Systems
+M240C,EE,Optimal Control
+241A,EE,Stochastic Processes
+M242A,EE,Nonlinear Dynamic Systems
+C243A,EE,Neural Signal Processing
+246,EE,Foundations of Statistical Machine Learning
+C247A,EE,Neural Networks and Deep Learning
+C247B,EE,Neural Networks and Deep Learning II
+M248S,EE,"Seminar: Systems, Dynamics, and Control Topics"
+M250B,EE,Microelectromechanical Systems (MEMS) Fabrication
+M252,EE,Microelectromechanical Systems (MEMS) Device Physics and Design
+M255,EE,Neuroengineering
+M256A,EE,Evaluation of Research Literature in Neuroengineering
+M256B,EE,Evaluation of Research Literature in Neuroengineering
+M256C,EE,Evaluation of Research Literature in Neuroengineering
+M257,EE,Nanoscience and Technology
+260A,EE,Advanced Engineering Electrodynamics
+260B,EE,Advanced Engineering Electrodynamics
+261,EE,Microwave and Millimeter Wave Circuits
+262,EE,Antenna Theory and Design
+263,EE,"Reflector Antennas Synthesis, Analysis, and Measurement"
+266,EE,Computational Methods for Electromagnetics
+270,EE,Applied Quantum Mechanics
+271,EE,Classical Laser Theory
+272,EE,Dynamics of Lasers
+273,EE,Nonlinear Photonics
+274,EE,Optical Communication and Sensing Design
+M275,EE,Micro- and Nanoscale Biosensing for Molecular Diagnostics
+279AS,EE,Special Topics in Physical and Wave Electronics
+279BS,EE,Seminar: Physical and Wave Electronics
+279CS,EE,Clean Green IGERT Brown-Bag Seminar
+CM282,EE,"Science, Technology, and Public Policy"
+285A,EE,Plasma Waves and Instabilities
+285B,EE,Advanced Plasma Waves and Instabilities
+M287,EE,Fusion Plasma Physics and Analysis
+M293,EE,Intellectual Property for Technology Entrepreneurs and Managers
+295,EE,Academic Technical Writing for Electrical Engineers
+296,EE,Seminar: Research Topics in Electrical Engineering
+297,EE,Seminar Series: Electrical Engineering
+298,EE,Seminar: Engineering
+299,EE,MS Project Seminar
+M495,EE,Teaching Preparation Seminar: Teaching and Writing Pedagogies for Electrical Engineers
+596,EE,Directed Individual or Tutorial Studies
+597A,EE,Preparation for MS Comprehensive Examination
+597B,EE,Preparation for PhD Preliminary Examinations
+597C,EE,Preparation for PhD Oral Qualifying Examination
+598,EE,Research for and Preparation of MS Thesis
+599,EE,Research for and Preparation of PhD Dissertation
+10,STATS,Introduction to Statistical Reasoning
+12,STATS,Introduction to Statistical Methods for Geography and Environmental Studies
+13,STATS,Introduction to Statistical Methods for Life and Health Sciences
+15,STATS,Introduction to Data Science
+19,STATS,Fiat Lux Freshman Seminars
+20,STATS,Introduction to Statistical Programming with R
+21,STATS,Python and Other Technologies for Data Science
+35,STATS,Introduction to Probability with Applications to Poker
+88,STATS,Sophomore Seminars: Statistics
+89,STATS,Honors Seminars
+89HC,STATS,Honors Contracts
+99,STATS,Student Research Program
+100A,STATS,Introduction to Probability
+100B,STATS,Introduction to Mathematical Statistics
+100C,STATS,Linear Models
+101A,STATS,Introduction to Data Analysis and Regression
+101B,STATS,Introduction to Design and Analysis of Experiment
+101C,STATS,Introduction to Statistical Models and Data Mining
+102A,STATS,Introduction to Computational Statistics
+102B,STATS,Introduction to Computation and Optimization for Statistics
+102C,STATS,Introduction to Monte Carlo Methods
+105,STATS,Statistics for Engineers
+112,STATS,Statistics: Window to Understanding Diversity
+115,STATS,Probabilistic Decision Making
+C116,STATS,Applied Bayesian Social Statistics
+130,STATS,"Getting Up to Speed with SPSS, Stata, SAS, and R"
+131,STATS,Python and Other Technologies for Data Analysis
+133,STATS,Introduction to Text Mining Using R
+140XP,STATS,Collaboration in Data Science
+141XP,STATS,Practice of Data Science
+143,STATS,Introduction to Research in Statistics
+C145,STATS,History and Theory of Statistics
+147,STATS,Data Technologies for Data Scientists
+M148,STATS,Experience of Data Science
+C151,STATS,Experimental Design
+152,STATS,Environmental Statistics
+153,STATS,Hierarchical Linear Modeling
+M154,STATS,Measurement and Its Applications
+C155,STATS,Applied Sampling
+157,STATS,Probability and Statistics Data Modeling and Analysis using Statistics Online Computational Resource
+C160,STATS,Causal Inference for Health Data
+C161,STATS,Introduction to Machine Learning and Artificial Intelligence
+C163,STATS,Generative Data Science
+C167,STATS,Introduction to Databases
+M169,STATS,Causality X
+170,STATS,Introduction to Time-Series Analysis
+M171,STATS,Introduction to Spatial Statistics
+C173,STATS,Applied Geostatistics
+175,STATS,Statistics for Spatial Data
+C180,STATS,Introduction to Bayesian Statistics
+182,STATS,Fundamentals of Scientific Writing
+C183,STATS,Statistical Models in Finance
+184,STATS,Societal Impacts of Data
+186,STATS,Careers in Statistics
+188SA,STATS,Individual Studies for USIE Facilitators
+188SB,STATS,Individual Studies for USIE Facilitators
+188SC,STATS,Individual Studies for USIE Facilitators
+189,STATS,Advanced Honors Seminars
+189HC,STATS,Honors Contracts
+195,STATS,Community or Corporate Internships in Statistics
+199,STATS,Directed Research in Statistics
+200A,STATS,Applied Probability
+200B,STATS,Theoretical Statistics
+200C,STATS,High Dimensional Statistics
+201A,STATS,"Research Design, Sampling, and Analysis"
+201B,STATS,Statistical Modeling and Learning
+201C,STATS,Advanced Modeling and Inference
+202A,STATS,Statistics Programming
+202B,STATS,Matrix Algebra and Optimization
+202C,STATS,Monte Carlo Methods for Optimization
+203,STATS,"Large Sample Theory, Including Resampling"
+205,STATS,Hierarchical Linear Models
+206,STATS,Modern Survey Methods
+207,STATS,Statistical Learning with Sparsity
+208,STATS,Statistical Learning Theory
+210,STATS,Computer Intensive Methods
+211,STATS,Topics in Economics and Machine Learning
+212,STATS,Graphical Models
+213,STATS,Synthetic Data Generation
+C216,STATS,Applied Bayesian Social Statistics
+218,STATS,Statistical Analysis of Networks
+219,STATS,Topics in Reinforcement Learning
+221,STATS,Time-Series Analysis
+M222,STATS,Spatial Statistics
+C225,STATS,Experimental Design
+M230,STATS,Statistical Computing
+M231A,STATS,Pattern Recognition and Machine Learning
+231B,STATS,Methods of Machine Learning
+231C,STATS,Theories of Machine Learning
+M232A,STATS,Statistical Modeling and Learning in Vision and Cognition
+M232B,STATS,Statistical Computing and Inference in Vision and Cognition
+M232C,STATS,Cognitive Artificial Intelligence
+M235,STATS,Modern Environmental Statistics
+C236,STATS,Introduction to Bayesian Statistics
+238,STATS,Vision as Bayesian Inference
+240,STATS,Multivariate Analysis
+M241,STATS,"Current Topics in Causal Modeling, Inference, and Reasoning"
+M242,STATS,Multivariate Analysis with Latent Variables
+M243,STATS,"Logic, Causation, and Probability"
+M244,STATS,Statistical Analysis with Latent Variables
+C245,STATS,History and Theory of Statistics
+246,STATS,Statistical Model Selection
+CM248,STATS,Applied Sampling
+M250,STATS,Statistical Methods for Epidemiology
+M254,STATS,Statistical Methods in Computational Biology
+256,STATS,Causality
+C260,STATS,Causal Inference for Health Data
+C261,STATS,Introduction to Machine Learning and Artificial Intelligence
+C263,STATS,Generative Data Science
+C267,STATS,Introduction to Databases
+271,STATS,Probabilistic Models of Visual Cortex
+C273,STATS,Applied Geostatistics
+C283,STATS,Statistical Models in Finance
+285,STATS,Seminar: Research Topics in Statistics
+M286,STATS,Seminar: Statistical Problem Solving for Population Biology
+287,STATS,Seminar: Gene Expression and Systems Biology
+290,STATS,Current Literature in Statistics
+291XP,STATS,Service Learning for Graduate Statistical Consulting
+292,STATS,Graduate Student Statistical Packages Seminar
+294,STATS,Scientific Writing
+296,STATS,Participating Seminar: Statistics
+297SL,STATS,Service Learning and Community Learning for Statistics
+400,STATS,Introduction to Probability Modeling
+401,STATS,Survey of Methods in Modern Statistics
+402,STATS,Applied Regression
+403,STATS,Mathematical Statistics
+404,STATS,Statistical Computing and Programming
+405,STATS,Data Management
+411,STATS,Multivariate Statistical Analysis
+412,STATS,Advanced Regression and Predictive Modeling
+413,STATS,Machine Learning and Artificial Intelligence
+414,STATS,From Predictive Artificial Intelligence to Generative Artificial Intelligence
+415,STATS,Introduction to Forecasting
+416,STATS,Spatial-Temporal Point Processes and Geostatistical Applications
+417,STATS,Models in Finance
+418,STATS,Tools in Data Science
+419,STATS,Experimental Design
+420,STATS,Causal Inference
+421,STATS,Advanced Statistical Communication
+422,STATS,Data Visualization
+423,STATS,Longitudinal Data Analysis
+424,STATS,Teamwork and Leadership in Data Science
+425,STATS,Large Language Models in Text Mining
+426,STATS,Deep Learning
+427,STATS,Applied Bayesian Statistics
+428,STATS,Applied SQL for Data Science
+429,STATS,Statistical Consulting in Data Science
+495A,STATS,Teaching College Statistics
+495B,STATS,Teaching College Statistics
+496,STATS,Statistics Internship
+497,STATS,Directed Individual Study or Research
+498,STATS,MAS Thesis Research
+596,STATS,Directed Individual Study or Research
+598,STATS,MS Thesis Research
+599,STATS,PhD Dissertation Research

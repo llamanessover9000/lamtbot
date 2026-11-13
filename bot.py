@@ -95,17 +95,17 @@ async def on_message(message):
     
     if message.author.bot:
         return
+    if re.search(r"n+e+r+d+", message.content, re.IGNORECASE):
+        db.execute("""
+            INSERT INTO nerd_counts (user_id, guild_id, count)
+            VALUES (?, ?, 1)
+            ON CONFLICT(user_id, guild_id) DO UPDATE SET count = count + 1
+        """, (message.author.id, message.guild.id))
+        db.commit()
+        if message.channel.id in ALLOWED_CHANNEL_IDS:
+            await message.add_reaction("😦")
+
     if message.channel.id in ALLOWED_CHANNEL_IDS:
-        if re.search(r"n+e+r+d+", message.content, re.IGNORECASE):
-            db.execute("""
-                INSERT INTO nerd_counts (user_id, guild_id, count)
-                VALUES (?, ?, 1)
-                ON CONFLICT(user_id, guild_id) DO UPDATE SET count = count + 1
-            """, (message.author.id, message.guild.id))
-        
-            await message.add_reaction("🙁")
-            db.commit()
-    
         if MATH_KEYWORD_PATTERN.search(message.content):
             await message.add_reaction("🤓")
 
